@@ -1,0 +1,7 @@
+moc_*
+.DS_Store
+.qmake.stash
+*.app
+*.user
+*.o
+Makefile
