@@ -5,3 +5,4 @@ moc_*
 *.user
 *.o
 Makefile
+*plugin_import.cpp
